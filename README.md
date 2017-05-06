@@ -1,2 +1,2 @@
-#PlanDog
-#My first iOS program.
+# PlanDog
+My first iOS program.
